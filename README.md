@@ -1,1 +1,1 @@
-# jubilant-umbrella
+# jubilant-umbrellaTesting ground for setting up and enforcing code quality standards using SonarQube.
